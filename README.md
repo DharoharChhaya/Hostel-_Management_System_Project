@@ -79,8 +79,8 @@ This project was built as part of the 3rd Semester B.Tech curriculum at CHARUSAT
 
 ## 📷 Screenshots
 
-![image](https://github.com/user-attachments/assets/2037c4bf-81a7-444d-9efc-6d1c67f98d0e)
 ![image](https://github.com/user-attachments/assets/e6b57716-da8b-4ea4-888f-0a66c363a90d)
+![image](https://github.com/user-attachments/assets/2037c4bf-81a7-444d-9efc-6d1c67f98d0e)
 ![image](https://github.com/user-attachments/assets/f7938a48-72ca-4326-8ea9-74f82139b8d7)
 ![image](https://github.com/user-attachments/assets/681cd63f-cf92-4b2a-945d-7377a3df4b72)
 
