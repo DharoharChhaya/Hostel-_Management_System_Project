@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/9c46ab83-a219-4162-b708-e39586b9ddc5)# 🏨 Hostel Management System
+##🏨 Hostel Management System
 
 ## 📌 Project Overview
 
@@ -79,10 +79,11 @@ This project was built as part of the 3rd Semester B.Tech curriculum at CHARUSAT
 
 ## 📷 Screenshots
 
-![image](https://github.com/user-attachments/assets/5c2c84d9-6ae0-4873-b1a3-285ebfc3a427)
-![image](https://github.com/user-attachments/assets/032c6af0-6494-4d79-8b0d-4c17fe3d3a6d)
-![image](https://github.com/user-attachments/assets/da156bdd-e2e1-41ac-ba68-e1ee168a5e60)
-![image](https://github.com/user-attachments/assets/fbd0e4c3-2828-4302-a2c3-8c7dd86c6078)
+![image](https://github.com/user-attachments/assets/2037c4bf-81a7-444d-9efc-6d1c67f98d0e)
+![image](https://github.com/user-attachments/assets/e6b57716-da8b-4ea4-888f-0a66c363a90d)
+![image](https://github.com/user-attachments/assets/f7938a48-72ca-4326-8ea9-74f82139b8d7)
+![image](https://github.com/user-attachments/assets/681cd63f-cf92-4b2a-945d-7377a3df4b72)
+
 
 ---
 
