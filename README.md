@@ -108,5 +108,6 @@ This project was built as part of the 3rd Semester B.Tech curriculum at CHARUSAT
 
 ## 📬 Contact
 
-Feel free to reach out if you'd like to collaborate, contribute, or give feedback!
+- Feel free to reach out if you'd like to collaborate, contribute, or give feedback!
+- MyGmail : dharoharchhaya7@gmail.com 
 
